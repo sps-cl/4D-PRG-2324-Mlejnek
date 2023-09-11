@@ -1,4 +1,5 @@
-
-This is readme lolol
-
-nějak to upravím
+# 4D-PRG-2324-Mlejnek
+Minecraft kámo
+git add .
+git commit -m "zpráva"
+git push
