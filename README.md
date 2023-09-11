@@ -1,2 +1,4 @@
 
-This is readme lool
+This is readme lolol
+
+nějak to upravím
