@@ -1,5 +1,5 @@
 # 4D-PRG-2324-Mlejnek
-Minecraft kámo \
+Minecraft kámo
 
 # Takhle se pushuje na git
 
