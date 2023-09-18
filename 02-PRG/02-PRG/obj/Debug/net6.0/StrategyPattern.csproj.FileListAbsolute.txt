@@ -1,0 +1,14 @@
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\StrategyPattern.AssemblyInfoInputs.cache
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\StrategyPattern.AssemblyInfo.cs
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\StrategyPattern.csproj.CoreCompileInputs.cache
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\bin\Debug\net6.0\StrategyPattern.exe
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\bin\Debug\net6.0\StrategyPattern.deps.json
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\bin\Debug\net6.0\StrategyPattern.runtimeconfig.json
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\bin\Debug\net6.0\StrategyPattern.dll
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\bin\Debug\net6.0\StrategyPattern.pdb
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\StrategyPattern.dll
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\refint\StrategyPattern.dll
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\StrategyPattern.pdb
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\StrategyPattern.genruntimeconfig.cache
+R:\PRG\4. ročník\4D-PRG-2324-Mlejnek\02-PRG\02-PRG\obj\Debug\net6.0\ref\StrategyPattern.dll
