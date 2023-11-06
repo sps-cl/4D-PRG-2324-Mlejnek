@@ -1,0 +1,25 @@
+.greenBg {
+    font-size: 2em;
+    background-color: lightgreen;
+}
+
+div {
+    background-color: lightskyblue;
+    border: 4px dashed lightcoral;
+    border-bottom: 7px dotted lime;
+    margin: 20px 30px 40px 50px;
+    padding: 20px 30px 40px 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+#p1 {
+    background-color: lightslategray;
+}
+
+.greenBg:hover {
+    background-color: rgb(81, 236, 128);
+}
