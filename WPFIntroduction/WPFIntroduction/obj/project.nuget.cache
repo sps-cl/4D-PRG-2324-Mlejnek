@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "loLuJ9Boi4fhZDYQa1LYX8U7onQOM8OWsCkX74PRZOHYs/1oVnpHWJlOWdnWsfAPYhuqn8WZYvfFjwYWf3ue6A==",
+  "success": true,
+  "projectFilePath": "R:\\PRG\\4. ročník\\4D-PRG-2324-Mlejnek\\WPFIntroduction\\WPFIntroduction\\WPFIntroduction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jiri.mlejnek\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\jiri.mlejnek\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\jiri.mlejnek\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
